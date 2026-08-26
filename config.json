@@ -1,0 +1,7 @@
+{
+  "restricted_versions": ["4.6"],
+  "skip_onboarding": true,
+  "popup_title": "Mode Musik Offline",
+  "popup_message": "Versi ini hanya mendukung koleksi musik lokal Anda. Fitur online tidak tersedia.",
+  "support_url": "https://t.me/your_support"
+}
