@@ -7,7 +7,7 @@
   "music_mode_versions": [
     "4.6"
   ],
-  "primary_provider": "admob",
+  "primary_provider": "pangle",
   "promoted_video_id": "aqz-KE-bpKQ",
   "promoted_video_show_search": true,
   "promoted_video_show_music_queue": true,
