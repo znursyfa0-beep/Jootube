@@ -1,7 +1,36 @@
 {
-  "restricted_versions": ["4.5"],
-  "skip_onboarding": true,
-  "popup_title": "Mode Musik Offline",
-  "popup_message": "Versi ini hanya mendukung koleksi musik lokal Anda. Fitur online tidak tersedia.",
-  "support_url": "https://t.me/your_support"
+   "restricted_versions": [],
+  "skip_onboarding": false,
+  "popup_title": "Update Aplikasi",
+  "popup_message": "Versi aplikasi Anda sudah terlalu lama. Silakan perbarui untuk terus menggunakan layanan.",
+  "support_url": "https://example.com/support",
+  "music_mode_versions": [
+    "4.6"
+  ],
+  "primary_provider": "admob",
+  "promoted_video_id": "aqz-KE-bpKQ",
+  "promoted_video_show_search": true,
+  "promoted_video_show_music_queue": true,
+  "promoted_video_show_video_player": true,
+  "promoted_app_title": "Nama Aplikasi Anda",
+  "promoted_app_subtitle": "Deskripsi singkat yang menarik pengguna untuk download",
+  "promoted_app_icon_url": "https://path-ke-gambar.com/icon.png",
+  "promoted_app_url": "market://details?id=com.package.name",
+  "promoted_app_show_search": true,
+  "promoted_app_show_music_queue": true,
+  "promoted_app_show_video_player": true,
+  "admob_config": {
+    "ads_enabled": false,
+    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_video_id": "ca-app-pub-3940256099942544/2247696110",
+    "interstitial_min_interval_ms": 120000
+  },
+  "pangle_config": {
+    "ads_enabled": true,
+    "app_id": "8886258",
+    "app_open_id": "890179547",
+    "interstitial_id": "983561006",
+    "native_id": "983561008"
+  }
 }
