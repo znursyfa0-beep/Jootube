@@ -32,10 +32,19 @@
     "app_open_id": "890179548",
     "interstitial_id": "983561049",
     "native_id": "983561043"
-  }
+  },
    "keys": [
     "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
     "AIzaSyB1234567890abcdefghijklmnopqrst",
     "AIzaSyC0987654321zyxwvutsrqponmlkjihg"
-  ]
+  ],
+"update_enabled": true,
+  "latest_version_name": "3.0",
+  "latest_version_code": 30,
+  "min_required_version_code": 25,
+  "max_target_version_code": 29,
+  "update_url": "https://play.google.com/store/apps/details?id=com.aplikasi.baru",
+  "update_notes": "Kami telah berpindah ke aplikasi baru! Silakan instal versi terbaru untuk fitur yang lebih lengkap.",
+
+   
 }
