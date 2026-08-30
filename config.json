@@ -39,6 +39,7 @@
     "AIzaSyC0987654321zyxwvutsrqponmlkjihg"
   ],
 "update_enabled": true,
+   "force_update": false
   "latest_version_name": "3.0",
   "latest_version_code": 30,
   "min_required_version_code": 25,
