@@ -4,8 +4,8 @@
   "restricted_versions_codes": [20],
   "music_mode_versions_codes": [20],
   "skip_onboarding": true,
-  "popup_title": "Update Aplikasi",
-  "popup_message": "Versi aplikasi Anda sudah terlalu lama. Silakan perbarui untuk terus menggunakan layanan.",
+  "popup_title": "Perbaikan",
+  "popup_message": "Versi aplikasi Anda sedang dalam perbaikan, coba lagi dalam beberapa jam ke depan",
   "support_url": "https://example.com/support",
 
    
@@ -40,12 +40,12 @@
     "AIzaSyB1234567890abcdefghijklmnopqrst",
     "AIzaSyC0987654321zyxwvutsrqponmlkjihg"
   ],
-"update_enabled": true,
+"update_enabled": false,
    "force_update": false
-  "latest_version_name": "3.0",
-  "latest_version_code": 30,
-  "min_required_version_code": 25,
-  "max_target_version_code": 29,
+  "latest_version_name": "2.0",
+  "latest_version_code": 20,
+  "min_required_version_code": 20,
+  "max_target_version_code": 20,
   "update_url": "https://play.google.com/store/apps/details?id=com.aplikasi.baru",
   "update_notes": "Kami telah berpindah ke aplikasi baru! Silakan instal versi terbaru untuk fitur yang lebih lengkap."
 }
