@@ -1,12 +1,10 @@
 {
    "restricted_versions": [2.0],
-  "skip_onboarding": false,
+  "skip_onboarding": true,
   "popup_title": "Update Aplikasi",
   "popup_message": "Versi aplikasi Anda sudah terlalu lama. Silakan perbarui untuk terus menggunakan layanan.",
   "support_url": "https://example.com/support",
-  "music_mode_versions": [
-    "2.0"
-  ],
+  "music_mode_versions": [2.0],
   "primary_provider": "pangle",
   "promoted_video_id": "aqz-KE-bpKQ",
   "promoted_video_show_search": true,
