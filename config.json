@@ -1,5 +1,5 @@
 {
-   "restricted_versions": [],
+   "restricted_versions": [2.0],
   "skip_onboarding": false,
   "popup_title": "Update Aplikasi",
   "popup_message": "Versi aplikasi Anda sudah terlalu lama. Silakan perbarui untuk terus menggunakan layanan.",
