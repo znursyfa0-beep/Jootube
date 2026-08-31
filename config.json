@@ -11,9 +11,9 @@
    
   "primary_provider": "pangle",
   "promoted_video_id": "aqz-KE-bpKQ",
-  "promoted_video_show_search": true,
-  "promoted_video_show_music_queue": true,
-  "promoted_video_show_video_player": true,
+  "promoted_video_show_search": false,
+  "promoted_video_show_music_queue": false,
+  "promoted_video_show_video_player": false,
   "promoted_app_title": "Nama Aplikasi Anda",
   "promoted_app_subtitle": "Deskripsi singkat yang menarik pengguna untuk download",
   "promoted_app_icon_url": "https://path-ke-gambar.com/icon.png",
