@@ -1,8 +1,8 @@
 {
-  "restricted_versions": ["2.1"],
-  "music_mode_versions": ["2.1"],
-  "restricted_versions_codes": [21],
-  "music_mode_versions_codes": [21],
+  "restricted_versions": ["2.3"],
+  "music_mode_versions": ["2.3"],
+  "restricted_versions_codes": [23],
+  "music_mode_versions_codes": [23],
   "skip_onboarding": true,
   "popup_title": "Perbaikan",
   "popup_message": "Versi aplikasi Anda sedang dalam perbaikan, coba lagi dalam beberapa jam ke depan",
