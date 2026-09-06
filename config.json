@@ -7,7 +7,7 @@
   "popup_title": "Perbaikan",
   "popup_message": "Versi aplikasi Anda sedang dalam perbaikan, coba lagi dalam beberapa jam ke depan",
   "support_url": "https://example.com/support",
-
+  "is_review_mode": true,
    
   "primary_provider": "pangle",
   "promoted_video_id": "aqz-KE-bpKQ",
