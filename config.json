@@ -18,15 +18,15 @@
   "promoted_app_subtitle": "Deskripsi singkat yang menarik pengguna untuk download",
   "promoted_app_icon_url": "https://path-ke-gambar.com/icon.png",
   "promoted_app_url": "market://details?id=com.package.name",
-  "promoted_app_show_search": true,
-  "promoted_app_show_music_queue": true,
-  "promoted_app_show_video_player": true,
+  "promoted_app_show_search": false,
+  "promoted_app_show_music_queue": false,
+  "promoted_app_show_video_player": false,
   "admob_config": {
     "ads_enabled": true,
     "app_open_id": "ca-app-pub-3940256099942544/9257395921",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
     "native_video_id": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial_min_interval_ms": 120000
+    "interstitial_min_interval_ms": 5000
   },
   "pangle_config": {
     "ads_enabled": true,
