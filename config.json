@@ -23,9 +23,9 @@
   "promoted_app_show_video_player": false,
   "admob_config": {
     "ads_enabled": true,
-    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "app_open_id": "ca-app-pubx-3940256099942544/9257395921",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "native_video_id": "ca-app-pub-3940256099942544/2247696110",
+    "native_video_id": "ca-app-pubx-3940256099942544/2247696110",
     "interstitial_min_interval_ms": 5000
   },
   "pangle_config": {
