@@ -3,7 +3,7 @@
   "music_mode_versions": ["2.8"],
   "restricted_versions_codes": [28],
   "music_mode_versions_codes": [28],
-  "skip_onboarding": true,
+  "skip_onboarding": false,
   "popup_title": "Perbaikan",
   "popup_message": "Versi aplikasi Anda sedang dalam perbaikan, coba lagi dalam beberapa jam ke depan",
   "support_url": "https://example.com/support",
