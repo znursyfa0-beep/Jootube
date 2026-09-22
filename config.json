@@ -1,7 +1,7 @@
 {
-  "restricted_versions": ["3.0"],
+  "restricted_versions": ["0.0"],
   "music_mode_versions": ["0"],
-  "restricted_versions_codes": [30],
+  "restricted_versions_codes": [0],
   "music_mode_versions_codes": [0],
   "skip_onboarding": true,
   "popup_title": "Perbaikan",
