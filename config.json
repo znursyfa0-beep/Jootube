@@ -8,8 +8,8 @@
   "popup_message": "Versi aplikasi Anda sedang dalam perbaikan, coba lagi dalam beberapa jam ke depan",
   "support_url": "https://example.com/support",
   "is_review_mode": false,
-  "review_mode_version": "3.0",
-  "review_mode_version_code": "30",
+  "review_mode_version": "2.0",
+  "review_mode_version_code": "20",
   
   "primary_provider": "pangle",
   "promoted_video_id": "aqz-KE-bpKQ",
