@@ -8,7 +8,7 @@
   "popup_message": "Versi aplikasi Anda sedang dalam perbaikan, coba lagi dalam beberapa jam ke depan",
   "support_url": "https://example.com/support",
   "is_review_mode": true,
-  "review_mode_version": "3.0";
+  "review_mode_version": "3.0",
   "review_mode_version_code": "30",
   
   "primary_provider": "pangle",
