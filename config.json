@@ -30,7 +30,7 @@
     "ads_enabled": true,
     "app_open_id": "ca-app-pub-3831931038908044/8740132157",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "native_video_id": "native  ca-app-pub-3831931038908044/7123798159",
+    "native_video_id": "ca-app-pub-3831931038908044/7123798159",
     "interstitial_min_interval_ms": 5000
   },
   "pangle_config": {
