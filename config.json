@@ -34,17 +34,17 @@
   "native_video_playlist_enabled": true,
 
   "banner_music_player_enabled":true,
-  "banner_ad_unit_id": "",
-  "banner_refresh_timer_ms": "",
+  "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+  "banner_refresh_timer_ms": "6000",
   
   "admob_config": {
     "ads_enabled": true,
-    "app_open_id": "xca-app-pub-1785703837279391/4235966277",
+    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "native_video_id": "xca-app-pub-3831931038908044/7123798159",
+    "native_video_id": "ca-app-pub-3940256099942544/2247696110",
     "interstitial_min_interval_ms": 5000,
-    "native_admob_cooldown_ms": 60000,
-    "native_admob_timer_ms": 60000
+    "native_admob_cooldown_ms": 6000,
+    "native_admob_timer_ms": 6000
   },
   "pangle_config": {
     "ads_enabled": true,
