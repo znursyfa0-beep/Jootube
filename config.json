@@ -36,6 +36,8 @@
   "banner_music_player_enabled":true,
   "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
   "banner_refresh_timer_ms": "60000",
+  "banner_timer_ms": "60000",
+  "banner_cooldown_timer_ms": "60000",
   
   "admob_config": {
     "ads_enabled": true,
