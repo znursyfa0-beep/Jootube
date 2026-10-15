@@ -33,17 +33,15 @@
   "native_video_player_enabled": true,
   "native_video_playlist_enabled": true,
 
-  "banner_music_player_enabled":true,
-  "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-  "banner_refresh_timer_ms": "60000",
-  "banner_timer_ms": "60000",
-  "banner_cooldown_timer_ms": "60000",
   
   "admob_config": {
     "ads_enabled": true,
     "app_open_id": "ca-app-pub-3940256099942544/9257395921",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
     "native_video_id": "ca-app-pub-3940256099942544/2247696110",
+    "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "banner_refresh_timer_ms": "60000",
+    "banner_enabled": true,
     "interstitial_min_interval_ms": 5000,
     "native_admob_cooldown_ms": 60000,
     "native_admob_timer_ms": 60000
@@ -53,7 +51,8 @@
     "app_id": "8890622",
     "app_open_id": "x890181055",
     "interstitial_id": "x983561049",
-    "native_id": "x983611141"
+    "native_id": "x983611141",
+    "banner_id": ""
   },
    "keys": [
     "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
