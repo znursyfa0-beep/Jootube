@@ -35,7 +35,7 @@
 
   "banner_music_player_enabled":true,
   "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-  "banner_refresh_timer_ms": "6000",
+  "banner_refresh_timer_ms": "60000",
   
   "admob_config": {
     "ads_enabled": true,
@@ -43,8 +43,8 @@
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
     "native_video_id": "ca-app-pub-3940256099942544/2247696110",
     "interstitial_min_interval_ms": 5000,
-    "native_admob_cooldown_ms": 6000,
-    "native_admob_timer_ms": 6000
+    "native_admob_cooldown_ms": 60000,
+    "native_admob_timer_ms": 60000
   },
   "pangle_config": {
     "ads_enabled": true,
