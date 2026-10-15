@@ -33,6 +33,10 @@
   "native_video_player_enabled": true,
   "native_video_playlist_enabled": true,
 
+  "banner_music_player_enabled":true,
+  "banner_ad_unit_id": "",
+  "banner_refresh_timer_ms": "",
+  
   "admob_config": {
     "ads_enabled": true,
     "app_open_id": "xca-app-pub-1785703837279391/4235966277",
