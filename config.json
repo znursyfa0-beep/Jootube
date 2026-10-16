@@ -10,7 +10,7 @@
   "popup_title": "Perbaikan",
   "popup_message": "Versi aplikasi Anda sedang dalam perbaikan, coba lagi dalam beberapa jam ke depan",
   "support_url": "https://example.com/support",
-  "is_review_mode": true,
+  "is_review_mode": false,
   "review_mode_version": "0.0",
   "review_mode_version_code": "0",
   
@@ -60,7 +60,7 @@
     "AIzaSyC0987654321zyxwvutsrqponmlkjihg"
   ],
 "update_enabled": false,
-   "force_update": false
+   "force_update": false,
   "latest_version_name": "2.0",
   "latest_version_code": 20,
   "min_required_version_code": 20,
