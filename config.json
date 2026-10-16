@@ -40,7 +40,7 @@
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
     "native_video_id": "ca-app-pub-3940256099942544/2247696110",
     "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-    "banner_refresh_timer_ms": "60000",
+    "banner_refresh_timer_ms": "10000",
     "banner_enabled": true,
     "interstitial_min_interval_ms": 5000,
     "native_admob_cooldown_ms": 10000,
