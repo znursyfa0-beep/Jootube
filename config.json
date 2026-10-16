@@ -43,8 +43,8 @@
     "banner_refresh_timer_ms": "60000",
     "banner_enabled": true,
     "interstitial_min_interval_ms": 5000,
-    "native_admob_cooldown_ms": 60000,
-    "native_admob_timer_ms": 60000
+    "native_admob_cooldown_ms": 10000,
+    "native_admob_timer_ms": 10000
   },
   "pangle_config": {
     "ads_enabled": true,
