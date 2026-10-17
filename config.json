@@ -28,10 +28,15 @@
   "promoted_app_show_video_player": false,
   
   "native_home_video_enabled": true,
+  "native_home_video_timer_ms": 15000,
   "native_video_search_enabled": true,
+  "native_video_search_timer_ms": 15000,
   "native_music_search_enabled": true,
+  "native_music_search_timer_ms": 15000,
   "native_video_player_enabled": true,
+  "native_video_player_timer_ms": 15000,
   "native_video_playlist_enabled": true,
+  "native_video_playlist_timer_ms": 15000,
 
   
   "admob_config": {
