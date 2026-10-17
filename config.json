@@ -28,7 +28,7 @@
   "promoted_app_show_video_player": false,
   
   "native_home_video_enabled": true,
-  "native_home_video_timer_ms": 15000,
+  "native_home_video_timer_ms": 10000,
   "native_video_search_enabled": true,
   "native_video_search_timer_ms": 15000,
   "native_music_search_enabled": true,
@@ -41,13 +41,13 @@
   
   "admob_config": {
     "ads_enabled": true,
-    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "app_open_id": "ca-app-pub-1785703837279391/4235966277",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "native_home_video_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
-    "native_video_search_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
-    "native_video_player_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
-    "native_video_playlist_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
-    "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "native_home_video_ad_unit_id": "ca-app-pub-1785703837279391/7433194428",
+    "native_video_search_ad_unit_id": "ca-app-pub-1785703837279391/4312207064",
+    "native_video_player_ad_unit_id": "ca-app-pub-1785703837279391/9372962057",
+    "native_video_playlist_ad_unit_id": "ca-app-pub-1785703837279391/4120635378",
+    "banner_ad_unit_id": "ca-app-pub-1785703837279391/9242854131",
     "banner_refresh_timer_ms": 30000,
     "banner_timer_ms": 10000,
     "banner_enabled": true,
@@ -56,7 +56,7 @@
     "native_admob_timer_ms": 10000
   },
   "pangle_config": {
-    "ads_enabled": true,
+    "ads_enabled": false,
     "app_id": "8890622",
     "app_open_id": "x890181055",
     "interstitial_id": "x983561049",
