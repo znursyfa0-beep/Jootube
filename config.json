@@ -27,15 +27,15 @@
   "promoted_app_show_music_queue": false,
   "promoted_app_show_video_player": false,
   
-  "native_home_video_enabled": true,
+  "native_home_video_enabled": false,
   "native_home_video_timer_ms": 10000,
-  "native_video_search_enabled": true,
+  "native_video_search_enabled": false,
   "native_video_search_timer_ms": 15000,
   "native_music_search_enabled": false,
   "native_music_search_timer_ms": 12000,
   "native_video_player_enabled": true,
-  "native_video_player_timer_ms": 8000,
-  "native_video_playlist_enabled": true,
+  "native_video_player_timer_ms": 15000,
+  "native_video_playlist_enabled": false,
   "native_video_playlist_timer_ms": 9000,
 
   
@@ -49,9 +49,9 @@
     "native_video_player_ad_unit_id": "ca-app-pub-1785703837279391/9372962057",
     "native_video_playlist_ad_unit_id": "ca-app-pub-1785703837279391/4120635378",
     "banner_ad_unit_id": "ca-app-pub-1785703837279391/9242854131",
-    "banner_refresh_timer_ms": 30000,
-    "banner_timer_ms": 10000,
-    "banner_enabled": true,
+    "banner_refresh_timer_ms": 50000,
+    "banner_timer_ms": 100000,
+    "banner_enabled": false,
     "interstitial_min_interval_ms": 5000,
     "native_admob_cooldown_ms": 10000,
     "native_admob_timer_ms": 10000
