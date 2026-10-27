@@ -54,7 +54,37 @@
     "banner_enabled": false,
     "interstitial_min_interval_ms": 5000,
     "native_admob_cooldown_ms": 10000,
-    "native_admob_timer_ms": 10000
+    "native_admob_timer_ms": 10000,
+    "version_overrides": [
+      {
+        "min_version_code": 35,
+        "version_names": ["3.5"],
+        "version_codes": [35],
+        "ads_enabled": true,
+        "banner_enabled": true,
+        "app_open_id": "ca-app-pub-XXXXXXXXXXXXXXXX/OPEN_BARU_V34",
+        "interstitial_ad_id": "ca-app-pub-XXXXXXXXXXXXXXXX/INTER_BARU_V34",
+        "native_video_id": "ca-app-pub-XXXXXXXXXXXXXXXX/NATIVE_BARU_V34",
+        "native_home_video_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/NATIVE_BARU_V34",
+        "native_video_search_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/NATIVE_BARU_V34",
+        "native_video_player_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/NATIVE_BARU_V34",
+        "native_video_playlist_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/NATIVE_BARU_V34",
+        "banner_ad_unit_id": "ca-app-pub-XXXXXXXXXXXXXXXX/BANNER_BARU_V34"
+      },
+      {
+        "max_version_code": 34,
+        "ads_enabled": true,
+        "banner_enabled": false,
+        "native_home_video_enabled": false,
+        "native_video_search_enabled": false,
+        "native_video_player_enabled": false,
+        "native_video_playlist_enabled": false,
+        "app_open_id": "ca-app-pub-1785703837279391/4235966277",
+        "interstitial_ad_id": "",
+        "native_video_id": "",
+        "banner_ad_unit_id": ""
+      }
+    ]
   },
   "pangle_config": {
     "ads_enabled": false,
