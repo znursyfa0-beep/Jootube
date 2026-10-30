@@ -56,7 +56,7 @@
         "version_names": ["3.5"],
         "version_codes": [35],
         "ads_enabled": true,
-        "banner_enabled": true,
+        "banner_enabled": false,
            "app_open_id": "ca-app-pub-1785703837279391/4235966277",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
     "native_video_id": "ca-app-pub-1785703837279391/7433194428",
