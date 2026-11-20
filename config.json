@@ -56,9 +56,9 @@
     "native_timer_ms": 3000,
     "version_overrides": [
       {
-        "min_version_code": 36,
-        "version_names": ["3.6"],
-        "version_codes": [36],
+        "min_version_code": 37,
+        "version_names": ["3.7"],
+        "version_codes": [37],
         "ads_enabled": true,
         "banner_enabled": true,
         "banner_collapsible_enabled": true,
@@ -77,17 +77,22 @@
         "banner_ad_unit_id_2": "ca-app-pub-4186797500839415/1217317008"
       },
       {
-        "max_version_code": 35,
+        "max_version_code": 36,
         "ads_enabled": true,
-        "banner_enabled": false,
-        "native_home_video_enabled": false,
-        "native_video_search_enabled": false,
-        "native_video_player_enabled": false,
-        "native_video_playlist_enabled": false,
+        "banner_collapsible_enabled": true,
+        "native_video_player_enabled": true,
         "app_open_id": "ca-app-pub-4186797500839415/6298253299",
-        "interstitial_ad_id": "",
-        "native_video_id": "",
-        "banner_ad_unit_id": ""
+        "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+        "native_video_id": "ca-app-pub-1785703837279391/7433194428",
+        "native_home_video_ad_unit_id": "ca-app-pub-1785703837279391/7433194428",
+        "native_video_search_ad_unit_id": "ca-app-pub-1785703837279391/4312207064",
+        "native_video_player_ad_unit_id": "ca-app-pub-1785703837279391/9372962057",
+        "native_video_player_ad_unit_id_1": "ca-app-pub-4186797500839415/5897304751",
+        "native_video_player_ad_unit_id_2": "ca-app-pub-4186797500839415/5897304751",
+        "native_video_playlist_ad_unit_id": "ca-app-pub-1785703837279391/4120635378",
+        "banner_ad_unit_id": "ca-app-pub-1785703837279391/9242854131",
+        "banner_ad_unit_id_1": "ca-app-pub-4186797500839415/1217317008",
+        "banner_ad_unit_id_2": "ca-app-pub-4186797500839415/1217317008"
       }
     ]
   },
