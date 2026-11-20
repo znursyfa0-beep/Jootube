@@ -56,9 +56,9 @@
     "native_timer_ms": 3000,
     "version_overrides": [
       {
-        "min_version_code": 37,
-        "version_names": ["3.7"],
-        "version_codes": [37],
+        "min_version_code": 36,
+        "version_names": ["3.6"],
+        "version_codes": [36],
         "ads_enabled": true,
         "banner_enabled": true,
         "banner_collapsible_enabled": true,
