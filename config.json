@@ -47,7 +47,7 @@
     "native_video_playlist_ad_unit_id": "xca-app-pub-1785703837279391/4120635378",
     "banner_ad_unit_id": "xca-app-pub-1785703837279391/9242854131",
     "banner_ad_unit_id_1": "ca-app-pub-4186797500839415/1217317008",
-    "banner_ad_unit_id_2": "ca-app-pub-4186797500839415/1217317008"
+    "banner_ad_unit_id_2": "ca-app-pub-4186797500839415/1217317008",
     "banner_refresh_timer_ms": 30000,
     "banner_timer_ms": 3000,
     "interstitial_min_interval_ms": 5000,
@@ -92,7 +92,7 @@
         "native_video_playlist_ad_unit_id": "xca-app-pub-1785703837279391/4120635378",
         "banner_ad_unit_id": "xca-app-pub-1785703837279391/9242854131",
         "banner_ad_unit_id_1": "ca-app-pub-4186797500839415/1217317008",
-        "banner_ad_unit_id_2": "ca-app-pub-4186797500839415/1217317008"
+        "banner_ad_unit_id_2": "ca-app-pub-4186797500839415/1217317008",
       }
     ]
   },
